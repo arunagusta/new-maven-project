@@ -26,7 +26,6 @@
 		
 		<sonar.projectKey>arun</sonar.projectKey>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.organization>Slearn</sonar.organization>
 	    <sonar.login>662cf7f1916bd4986cc1009a2b2e747cdbf6f19b</sonar.login>
 	
 	</properties>
